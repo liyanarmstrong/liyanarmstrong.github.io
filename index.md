@@ -11,11 +11,13 @@ Make it better everyday...
 
 ## The Plans for This Week
 
-This week to bee accomplished:
+This week to be accomplished:
 
-    1.Reading "Three Body"
+    1.Reading "Three Body" 
 
     2.Beautify the Blog
+
+    3.continue learning ruby,python,linux ...
     
 Just like the worklog,it is a good way to summarize by recording   
 
